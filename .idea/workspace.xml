@@ -20,15 +20,12 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:branchwith-new-file-not-in-main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="264d0d6a-2673-4337-8fb1-5b931ace8b41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="264d0d6a-2673-4337-8fb1-5b931ace8b41" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611771647640</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="created new .py file in pycharm opened through github desktop">
+      <created>1611772298155</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611772298155</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,7 +94,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="branchwith-new-file-not-in-main" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -105,7 +109,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new line of text in README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="new line of text in README.md" />
+    <MESSAGE value="created new .py file in pycharm opened through github desktop" />
+    <option name="LAST_COMMIT_MESSAGE" value="created new .py file in pycharm opened through github desktop" />
   </component>
   <component name="WindowStateProjectService">
     <state x="206" y="67" key="SettingsEditor" timestamp="1611771616071">
