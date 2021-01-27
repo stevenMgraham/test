@@ -20,16 +20,26 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:pycharm_simple_editing_take3" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:branchwith-new-file-not-in-main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="264d0d6a-2673-4337-8fb1-5b931ace8b41" name="Default Changelist" comment="" />
+    <list default="true" id="264d0d6a-2673-4337-8fb1-5b931ace8b41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -80,7 +90,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="pycharm_simple_editing_take3" />
+                        <option value="branchwith-new-file-not-in-main" />
                       </list>
                     </value>
                   </entry>
